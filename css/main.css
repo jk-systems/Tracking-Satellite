@@ -1,0 +1,9 @@
+#map {
+  height: 450px;
+}
+#canvas {
+    height: 450px;
+  }
+#row{
+    min-height: 200px;
+}
